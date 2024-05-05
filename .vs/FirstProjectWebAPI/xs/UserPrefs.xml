@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{9EF05828-95F0-4BDD-9713-90EA6403962A}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstProjectWebAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstProjectWebAPI/Program.cs">
+    <Files>
+      <File FileName="FirstProjectWebAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="FirstProjectWebAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="FirstProjectWebAPI/appsettings.json" />
+      <File FileName="FirstProjectWebAPI/Models/Categorie.cs" />
+      <File FileName="FirstProjectWebAPI/Models/Appdbcontext.cs" />
+      <File FileName="FirstProjectWebAPI/Migrations/20240428172843_AddCategorietoDb.cs" />
+      <File FileName="FirstProjectWebAPI/Services/CategorieService.cs" />
+      <File FileName="FirstProjectWebAPI/Services/ICategoryService.cs" />
+      <File FileName="FirstProjectWebAPI/Controllers/CategoriesController.cs" />
+      <File FileName="FirstProjectWebAPI/Models/DTO/CategorieDTO.cs" />
+      <File FileName="FirstProjectWebAPI/Models/UserProfile.cs" />
+      <File FileName="FirstProjectWebAPI/WeatherForecast.cs" />
+      <File FileName="FirstProjectWebAPI/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstProjectWebAPI" expanded="True" selected="True">
+            <Node name="FirstProjectWebAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
